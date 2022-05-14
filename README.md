@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @azukalex
-- 👀 I’m interested in any web development or app development project
+- 👀 I'm a Full-stack Web Developer • Blockchain Developer • Mobile App Developer • DApps and DEX Developer
 - 🌱 I’m currently learning more new skills and technologies in the tech world in other to improve my skills
-- 💞️ I’m looking to collaborate on any web development or app development project
-- 📫 How to reach me - cryptohiveng@gmail.com
-
-<!---
-azukalex/azukalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to get a job or collaboration
+- 📫 How to reach me - onwudinjoazukalex@gmail.com
+- 😊 I have quality skills in HTML5, CSS3, JS, PHP, MySQL, React, Laravel, Bootstrap, Tailwind, Vue.js, Node.js, Android Studio (Java), IOS Development (Swift), Solidity, AWS, DEX and DApps. I've been building Websites, Mobile Apps and DApps for over 5 Years.
