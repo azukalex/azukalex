@@ -1,17 +1,11 @@
-🏢 CEO & Founder – Canada Visapress 🇨🇦
-Guiding students and professionals through seamless Canadian immigration & visa processes.
-
 🚀 CEO & Lead Developer – C-Hive Technologies
-Building scalable Web3, blockchain, SaaS, DeFi, DAO, and DEX solutions for global clients.
+Driving innovation with Web3, blockchain, SaaS, DeFi, DAO, and DEX solutions for global clients.
 
-💻 Full-stack Engineer – 7+ years
+💻 Full-stack & Blockchain Engineer – 7+ years
 Expert in HTML5, CSS3, JavaScript, PHP, MySQL, Laravel, React, Vue.js, Node.js, Tailwind, Bootstrap, Android (Java), iOS (Swift), Solidity & AWS.
 
-🌐 Passionate about creating secure DApps, DeFi protocols, and enterprise-grade software that empower businesses and users worldwide.
+🌐 Passionate about building secure DApps, DeFi protocols, and enterprise-grade software that empower businesses and users in the Web3 era.
 
-🤝 Open to strategic partnerships, collaborations, and high-impact projects across tech and immigration.
+🤝 Open to strategic partnerships, collaborations, and high-impact projects in Web3 and emerging technologies.
 
 📫 Contact: onwudinjoazukalex@gmail.com
- | LinkedIn: https://www.linkedin.com/in/onwudinjoazukalex
-
-Driving innovation at the intersection of immigration services and cutting-edge technology.
