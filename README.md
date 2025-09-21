@@ -1,6 +1,17 @@
-- 👋 Hi, I’m @azukalex
-- 👀 I'm a Full-stack Web Developer • Blockchain Developer • Mobile App Developer • DApps and DEX Developer
-- 🌱 I’m currently learning more new skills and technologies in the tech world in other to improve my skills
-- 💞️ I’m looking to get a job or collaboration
-- 📫 How to reach me - onwudinjoazukalex@gmail.com
-- 😊 I have quality skills in HTML5, CSS3, JS, PHP, MySQL, React, Laravel, Bootstrap, Tailwind, Vue.js, Node.js, Android Studio (Java), IOS Development (Swift), Solidity, AWS, DEX and DApps. I've been building Websites, Mobile Apps and DApps for over 5 Years.
+🏢 CEO & Founder – Canada Visapress 🇨🇦
+Guiding students and professionals through seamless Canadian immigration & visa processes.
+
+🚀 CEO & Lead Developer – C-Hive Technologies
+Building scalable Web3, blockchain, SaaS, DeFi, DAO, and DEX solutions for global clients.
+
+💻 Full-stack Engineer – 7+ years
+Expert in HTML5, CSS3, JavaScript, PHP, MySQL, Laravel, React, Vue.js, Node.js, Tailwind, Bootstrap, Android (Java), iOS (Swift), Solidity & AWS.
+
+🌐 Passionate about creating secure DApps, DeFi protocols, and enterprise-grade software that empower businesses and users worldwide.
+
+🤝 Open to strategic partnerships, collaborations, and high-impact projects across tech and immigration.
+
+📫 Contact: onwudinjoazukalex@gmail.com
+ | LinkedIn: https://www.linkedin.com/in/onwudinjoazukalex
+
+Driving innovation at the intersection of immigration services and cutting-edge technology.
