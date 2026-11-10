@@ -1,4 +1,4 @@
-# Alexander Azuka-ego Onwudinjo
+# Azuka Alexander
 
 ### CEO & Lead Developer at C-Hive Technologies | Web3 & Full-Stack Architect
 
